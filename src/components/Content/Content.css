@@ -1,0 +1,12 @@
+.content {
+  left: 230px;
+  bottom: 0;
+  top: 0;
+  right: 0;
+  position: absolute;
+  background-color: #414141;
+}
+
+.main {
+  padding: 5rem;
+}
